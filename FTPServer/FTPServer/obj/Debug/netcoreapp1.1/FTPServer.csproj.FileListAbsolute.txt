@@ -1,0 +1,10 @@
+C:\Users\Maks\source\repos\FTPServer\FTPServer\bin\Debug\netcoreapp1.1\FTPServer.deps.json
+C:\Users\Maks\source\repos\FTPServer\FTPServer\bin\Debug\netcoreapp1.1\FTPServer.runtimeconfig.json
+C:\Users\Maks\source\repos\FTPServer\FTPServer\bin\Debug\netcoreapp1.1\FTPServer.runtimeconfig.dev.json
+C:\Users\Maks\source\repos\FTPServer\FTPServer\bin\Debug\netcoreapp1.1\FTPServer.dll
+C:\Users\Maks\source\repos\FTPServer\FTPServer\bin\Debug\netcoreapp1.1\FTPServer.pdb
+C:\Users\Maks\source\repos\FTPServer\FTPServer\obj\Debug\netcoreapp1.1\FTPServer.csprojResolveAssemblyReference.cache
+C:\Users\Maks\source\repos\FTPServer\FTPServer\obj\Debug\netcoreapp1.1\FTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Maks\source\repos\FTPServer\FTPServer\obj\Debug\netcoreapp1.1\FTPServer.AssemblyInfo.cs
+C:\Users\Maks\source\repos\FTPServer\FTPServer\obj\Debug\netcoreapp1.1\FTPServer.dll
+C:\Users\Maks\source\repos\FTPServer\FTPServer\obj\Debug\netcoreapp1.1\FTPServer.pdb
